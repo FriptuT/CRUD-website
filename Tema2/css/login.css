@@ -1,0 +1,39 @@
+body{
+    background-color: rgb(213, 249, 249);
+}
+
+form{
+    /* border: 3px solid rgb(56, 56, 56); */
+    position:absolute;
+    top:300px;
+    left:500px;
+    width: 500px;
+    height: 250px;
+    margin-top:3px;
+}
+
+button{
+    width: 100px;
+    margin-left: 150px;
+    margin-right: auto;
+}
+
+h2{
+    position:absolute;
+    top:200px;
+    left:600px;
+    width: 500px;
+    height: 250px;
+    color: rgb(83, 136, 137);
+}
+
+.eroare{
+    background: #f0d3ff;
+    color:#9c00f0;
+    position:relative;
+    left:-70px;
+    padding:15px;
+    width:370px;
+    border-radius:5px;
+    margin: 10px auto;
+}
